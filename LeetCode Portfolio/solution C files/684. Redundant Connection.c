@@ -1,6 +1,8 @@
+
+//Zadie Moon
+//https://leetcode.com/problems/redundant-connection/
 /**
  * Note: The returned array must be malloced, assume caller calls free().
-
  */
 // Function to find the root of the parent array
 int findRoot(int node, int* parent) {

@@ -1,4 +1,5 @@
-
+//Zadie Moon
+//https://leetcode.com/problems/perfect-squares/
 int numSquares(int n){
     
     int min_num_squares[n+1]; // define array
