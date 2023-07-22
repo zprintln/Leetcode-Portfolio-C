@@ -1,6 +1,7 @@
 # C LeetCode Portfolio
 
-![LeetCode Logo](https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark-eagle.png)
+![image](https://github.com/zprintln/Leetcode-Portfolio-C/assets/98183566/083c87f2-9151-46f8-ab73-d4abe0f60931)
+
 
 Welcome to my C LeetCode Portfolio! This repository showcases my collection of C-based solutions for LeetCode challenges, highlighting my problem-solving skills and proficiency in data structures and algorithms.
 
